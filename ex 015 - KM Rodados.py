@@ -1,0 +1,7 @@
+print('='*33)
+km = float(input('Quantos km você rodou: '))
+dia = int(input('Quantos dias o carro ficou com você: '))
+res = (km * 0.15) + (60 * dia)
+print('-'*33)
+print('Voce alugou um carro por {} dias e rodou {} km; \n VALOR DEVIDO R$: {:.2f}'.format(dia, km, res))
+print(('='*33))

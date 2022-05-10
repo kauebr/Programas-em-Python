@@ -1,0 +1,10 @@
+print('-----------------------------------------')
+print('           Calculadora de Tinta          ')
+print('-----------------------------------------')
+lar = int(input('Digite a largura em metros: '))
+alt = int(input('Digite a altura em metros: '))
+area = lar * alt
+print("-----------------------------------------")
+print('            R E S U L T A D O            ')
+print('Serão necessários {:.f0} litros de tinta'.format(area/2))
+print('-----------------------------------------')
