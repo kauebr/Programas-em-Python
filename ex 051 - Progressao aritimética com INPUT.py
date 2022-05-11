@@ -1,3 +1,6 @@
+#  Faca um programa que leia termo e razao e mostre a p.a.
+
+
 from time import sleep
 print('-'*25)
 print('\33[96m{:25}\33[m'.format('Progressão Aritimética'))

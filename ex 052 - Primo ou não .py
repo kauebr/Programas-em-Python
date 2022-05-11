@@ -1,3 +1,5 @@
+#   Crie um programa que leia um número inteiro e retorne se ele é primo ou não
+
 num = int(input('Digite um número: '))
 div = num
 cp = 0

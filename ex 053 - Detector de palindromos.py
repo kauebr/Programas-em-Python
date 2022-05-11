@@ -1,3 +1,5 @@
+#   Faça um detector de palindromos
+
 from time import sleep
 print ('\33[96mBy KC0D3\33[94mBR')
 sleep(1)

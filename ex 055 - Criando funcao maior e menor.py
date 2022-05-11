@@ -1,3 +1,5 @@
+#   Crie uma formula para maior e menor com leitura de peso
+
 i = 0
 n = 0
 for c in range(1, 5):

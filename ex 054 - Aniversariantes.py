@@ -1,3 +1,5 @@
+#   Faça um programa que pergunte o ano de nascimento 8x e retorne a idade alem de somar a idades categorizando em maiores menores 
+
 import datetime
 sn = 0 # SOMA DOS MENORES
 si = 0 #SOMA DOS MAIORES

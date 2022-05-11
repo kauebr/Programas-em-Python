@@ -1,3 +1,6 @@
+#  Faça uma taboada até cem
+
+
 print('\33[95m{}{}'.format('-='*12, '-'))
 num = int(input('Escolha um Número: '))
 print('\33[95m{}{}'.format('-='*12, '-'))

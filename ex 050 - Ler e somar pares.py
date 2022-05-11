@@ -1,3 +1,5 @@
+#  Leia seis números e digite a soma dos pares
+
 s = 0
 cp = 0
 for c in range(1, 7):
