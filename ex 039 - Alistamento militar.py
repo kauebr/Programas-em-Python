@@ -1,3 +1,4 @@
+#   Crie um programa que leia a idade do usuário e retorne se ele pode se alistar, ou se faltam ou passaram anos para ele se alistar.
 print('\33[92m-'*33)
 ida = int(input('Digite sua idade: '))
 if ida == 18:

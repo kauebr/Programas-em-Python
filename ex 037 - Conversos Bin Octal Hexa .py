@@ -1,3 +1,5 @@
+#    Crie um algoritmo que leia um número inteiro e o converta para binário octal e hexadecimal
+
 print('\33[95;4m-'*33)
 num = int(input('\33[0;95mDigite um número: '))
 p = int(input('Tipo de conversão\n[0] Para Binário\n[1] Para Octal\n[2] Para Hexadecimal\nESCOLHA: '))

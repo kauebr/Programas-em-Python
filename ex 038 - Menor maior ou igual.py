@@ -1,3 +1,5 @@
+#  Crie um algoritimo que leia dois número inteiros e retorne menor e maior, e se os dois forem iguais informe também.
+
 print('\33[91m-'*33)
 n1 = int(input('Digite o primeiro número: '))
 n2 = int(input('Digite o segundo número: '))

@@ -1,3 +1,5 @@
+#   Crie um algoritmo que leia os três lados de um poligno e retorne se ele é um triângulo ou não
+
 l1 = float(input('Digite o lado 1: '))
 l2 = float(input('Digite o lado 2: '))
 l3 = float(input('Digite o lado 3: '))

@@ -1,3 +1,5 @@
+#  Crie um programa que leia duas notas de um aluno x e retorne se ele esta em recuperacao, reprovado ou aprovado, considere média sete, e abaixo de 5 reprovado! 
+
 print('\33[94m-'*35)
 n1 = int(input('Digite a primeira nota: '))
 n2 = int(input('Digite a segunda nota: '))

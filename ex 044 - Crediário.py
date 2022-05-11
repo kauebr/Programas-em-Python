@@ -1,3 +1,5 @@
+#  Crie um prográma de crediário casas BAHIA!!
+
 print('\33[96m-'*43)
 val = float(input('Digite o valor do produto: '))
 print('{:-^43}\n[1] À VISTA (dinheiro ou cheque) 10% off\n[2] À VISTA NO CARTÃO 5% off\n[3] ATE 2X NO CARTÃO sem desconto'.format(' Condição '))

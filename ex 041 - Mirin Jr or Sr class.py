@@ -1,3 +1,9 @@
+#   Crie um programa em inglês que leia a idade de um usuário e retorne a classe mirin, children, jr, ou r. Procure na internet os valores
+#   De referência.
+
+
+
+# Fiz em inglês
 print('\33[97m-'*33)
 ag = int(input('Please, type your age here: '))
 if ag <= 9:

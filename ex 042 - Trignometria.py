@@ -1,3 +1,7 @@
+#   Crie um programa que leia os três lados de um um poligno e retorne se ele é um triângulo equilátero, isósceles ou escaleno, ou se 
+#   é um triângulo.
+
+
 print('\33[96m='*33)
 l1 = float(input('Digite o lado 1: '))
 l2 = float(input('Digite o lado 2: '))

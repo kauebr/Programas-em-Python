@@ -1,4 +1,4 @@
-
+#   Crie um jogo de pedra Papel e tesoura.
 #:fist: pedra :Facepunch:
 #:wave: pel'''
 #:v: tesoura

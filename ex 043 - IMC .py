@@ -1,3 +1,5 @@
+#  Crie um programa que cálcule o IMC de um usuário
+
 from time import sleep
 print('\33[92m-'*33)
 print('\33[91m{:=^33}'.format('CÁLCULO IMC'))

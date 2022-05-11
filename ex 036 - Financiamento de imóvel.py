@@ -1,4 +1,10 @@
+
+#   Crie um programa que lei o valor de uma casa o sálario e em quantos anos ele deseja pagar, sendo que a parcela tem que ser inferior
+#   à 30% do salário do contratante, caso contrato retorne mensagem de erro.
+
 #By: KCODEBR
+
+
 from time import sleep
 print('\33[96m-'*33, '\33[93m')
 val = int(input('Digite o valor da casa R$: '))
