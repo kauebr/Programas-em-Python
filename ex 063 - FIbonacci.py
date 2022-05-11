@@ -1,3 +1,4 @@
+#   Crie um programa que pergunte quantos termos e gere uma sequencia fibonacci
 print('\33[92m꧁\33[94;4mEspiral\33[m \33[94;4mFibona\33[96mcci\33[92;1mᨐᨐ\33[m\33[92m.: ')
 loop = int(input('\33[94m Escolha o número de termos da sequência: '))
 t1 = 0

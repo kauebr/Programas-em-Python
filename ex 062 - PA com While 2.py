@@ -1,3 +1,5 @@
+
+
 pt = int(input('Digite o primeiro termo da PA: '))
 rz = int(input('Agora digite a razão: '))
 c = 1

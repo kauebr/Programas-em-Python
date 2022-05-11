@@ -1,3 +1,5 @@
+#   Faça um loop while sendo parado com break
+
 print('-'*25)
 s = c = 0
 while True:

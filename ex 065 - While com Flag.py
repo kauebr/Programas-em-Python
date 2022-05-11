@@ -1,3 +1,5 @@
+#   Faça um loop while com flag
+
 c = soma = 0
 flag = flag1 =True
 x = 's'
