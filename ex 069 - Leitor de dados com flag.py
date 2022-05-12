@@ -1,3 +1,6 @@
+#   Faça um programa que leia a idade e o sexo e pergunte se o usuário deseja continuar, no final mostre todos os maiores de Idade
+#   E depois mostre a some dos maiores de idade, dos homens e das mulheres com menos de 20 anos
+
 sm = sh = sf = brk = 0
 while True:
     if brk == 1:

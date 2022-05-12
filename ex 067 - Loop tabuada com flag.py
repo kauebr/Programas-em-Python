@@ -1,3 +1,5 @@
+#  Faça um leitor que pergunte um número e mostre a tabuada dele, e só sera interrompido quando o usuário digitar 0
+
 print('-'*33)
 num = 0
 c = 1

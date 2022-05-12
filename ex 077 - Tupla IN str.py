@@ -1,3 +1,4 @@
+#  Faça uma programa que retorne apenas as vogais de palavras de uma tupla
 wds = ('pao', 'feijao', 'macarrao', 'batatinha', 'cenoura', 'cabotia', 'zuchinni')
 print('-'*36)
 for c in range(0, len(wds)):

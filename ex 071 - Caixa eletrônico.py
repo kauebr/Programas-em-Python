@@ -1,3 +1,5 @@
+#  Faça um programa que simule um caixa rápido de banco, que leia quanto o cliente quer sacar e calcule quantas notas
+#  vão sair da maquina.
 valor = int(input('Informe o valor à ser sacado R$: '))
 n50 = b20 = n10 = n1 = 0
 if valor % 50 == 0:
