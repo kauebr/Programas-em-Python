@@ -1,0 +1,2 @@
+print('Joaozinho')
+print('era uma vez vagalume que tinha muita medo de escuro. entao ele foi cume na floresta entao ele se perdeu o meio do mato, dai ele encotrou uma fada dai a fada; dai a fada lhe deu uma luz assim o vagalume; nunca mais o vagalume ficou com medo de escuro')
